@@ -1,0 +1,32 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "Javascript Basic",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " nodemon --experimental-modules main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariel-gallardo/javascript-basic.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "basics"
+  ],
+  "author": "Ariel Gallardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariel-gallardo/javascript-basic/issues"
+  },
+  "homepage": "https://github.com/ariel-gallardo/javascript-basic#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
